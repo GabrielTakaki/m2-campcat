@@ -1,0 +1,52 @@
+<campeonato year="2025" name="Campeonato Catarinense 2025">
+    <teams>
+        <team id="1" name="Avaí"/>
+        <team id="2" name="Figueirense"/>
+        <team id="3" name="Joinville"/>
+        <team id="4" name="Criciúma"/>
+        <team id="5" name="Chapecoense"/>
+        <team id="6" name="Brusque"/>
+        <team id="7" name="Marcílio Dias"/>
+        <team id="8" name="Hercílio Luz"/>
+        <team id="9" name="Camboriú"/>
+        <team id="10" name="Barra"/>
+        <team id="11" name="Concórdia"/>
+        <team id="12" name="Atlético Catarinense"/>
+        <team id="13" name="Juventus-SC"/>
+        <team id="14" name="Metropolitano"/>
+        <team id="15" name="Caçador"/>
+        <team id="16" name="Inter de Lages"/>
+    </teams>
+    <rounds>
+        <round number="1">
+            <match id="r1m1" teamA="1" teamB="3" location="Ressacada" date="2025-01-15" goalsA="" goalsB=""/>
+            <match id="r1m2" teamA="2" teamB="4" location="Orlando Scarpelli" date="2025-01-15" goalsA="" goalsB=""/>
+            <match id="r1m3" teamA="5" teamB="6" location="Arena Condá" date="2025-01-16" goalsA="" goalsB=""/>
+            <match id="r1m4" teamA="7" teamB="8" location="Itajaí" date="2025-01-16" goalsA="" goalsB=""/>
+            <match id="r1m5" teamA="9" teamB="10" location="Camboriú" date="2025-01-16" goalsA="" goalsB=""/>
+            <match id="r1m6" teamA="11" teamB="12" location="Concórdia" date="2025-01-17" goalsA="" goalsB=""/>
+            <match id="r1m7" teamA="13" teamB="14" location="Jaraguá" date="2025-01-17" goalsA="" goalsB=""/>
+            <match id="r1m8" teamA="15" teamB="16" location="Caçador" date="2025-01-17" goalsA="" goalsB=""/>
+        </round>
+        <round number="2">
+            <match id="r2m1" teamA="3" teamB="2" location="Joinville" date="2025-01-22" goalsA="" goalsB=""/>
+            <match id="r2m2" teamA="4" teamB="1" location="Criciúma" date="2025-01-22" goalsA="" goalsB=""/>
+            <match id="r2m3" teamA="6" teamB="7" location="Brusque" date="2025-01-23" goalsA="" goalsB=""/>
+            <match id="r2m4" teamA="8" teamB="5" location="Tubarão" date="2025-01-23" goalsA="" goalsB=""/>
+            <match id="r2m5" teamA="10" teamB="11" location="Itajaí" date="2025-01-23" goalsA="" goalsB=""/>
+            <match id="r2m6" teamA="12" teamB="9" location="São José" date="2025-01-24" goalsA="" goalsB=""/>
+            <match id="r2m7" teamA="14" teamB="15" location="Blumenau" date="2025-01-24" goalsA="" goalsB=""/>
+            <match id="r2m8" teamA="16" teamB="13" location="Lages" date="2025-01-24" goalsA="" goalsB=""/>
+        </round>
+        <round number="3">
+            <match id="r3m1" teamA="1" teamB="2" location="Ressacada" date="2025-01-29" goalsA="" goalsB=""/>
+            <match id="r3m2" teamA="3" teamB="4" location="Joinville" date="2025-01-29" goalsA="" goalsB=""/>
+            <match id="r3m3" teamA="5" teamB="7" location="Chapecó" date="2025-01-30" goalsA="" goalsB=""/>
+            <match id="r3m4" teamA="6" teamB="8" location="Brusque" date="2025-01-30" goalsA="" goalsB=""/>
+            <match id="r3m5" teamA="9" teamB="11" location="Camboriú" date="2025-01-30" goalsA="" goalsB=""/>
+            <match id="r3m6" teamA="10" teamB="12" location="Itajaí" date="2025-01-31" goalsA="" goalsB=""/>
+            <match id="r3m7" teamA="13" teamB="15" location="Jaraguá" date="2025-01-31" goalsA="" goalsB=""/>
+            <match id="r3m8" teamA="14" teamB="16" location="Blumenau" date="2025-01-31" goalsA="" goalsB=""/>
+        </round>
+    </rounds>
+</campeonato>
