@@ -28,8 +28,8 @@ fun MatchCard(
     date: String?,
     onEdit: () -> Unit,
     onSaveInline: ((a: Int, b: Int) -> Unit)? = null,
-    teamNameWidth: Dp = 120.dp,          // << largura fixa p/ nomes (evita "dançar" do placar)
-    scoreFieldWidth: Dp = 32.dp          // largura dos inputs de gols
+    teamNameWidth: Dp = 80.dp,
+    scoreFieldWidth: Dp = 56.dp
 ) {
     // React: useState controlando o valor digitado
     var ga by remember(goalsA) { mutableStateOf(goalsA?.toString() ?: "") }
